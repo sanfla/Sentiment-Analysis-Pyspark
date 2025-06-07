@@ -28,6 +28,7 @@ Langkah-langkah preprocessing data yang dilakukan:
 
 ## 📂 Dataset
 Link: https://www.kaggle.com/datasets/sayedmahmoud/amazanreviewscor5?select=Books_5_part5.csv
+
 Dataset berisi ulasan teks (`reviewText`) dari produk buku di Amazon. Setelah proses cleaning, total data yang digunakan: **5.769.068** entri.
 
 ---
